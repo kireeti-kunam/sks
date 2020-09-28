@@ -1,1 +1,3 @@
-# sks
+ - Here I am solving for two test caes. one is is for dollars and another is for cents.
+ - Dollars always begin with the dollar symbol., so I am reading the text from dollar to symbol to next appeared space.
+ - similarly cents will begin with the numerical value and end with cent symbol. So i am reading that value and I am converting back it to the dollars.
